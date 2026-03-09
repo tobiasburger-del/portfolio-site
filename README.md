@@ -9,9 +9,11 @@ A personal portfolio website built incrementally as part of a web development co
 This project serves as both a **learning vehicle** and a **real-world portfolio**. Each phase of development aligns with a weekly course topic, allowing hands-on practice with each new concept.
 
 
-##  Getting Started
+##  How to run
 
----
+npm install
+node server.js
+open http://localhost:3000
 
 ##  License
 
