@@ -19,4 +19,4 @@ open http://localhost:3000
 
 This project is for educational purposes as part of the following courses:
 - SE_19 Web Technologies Basics 
-- ?
+- SE_01
