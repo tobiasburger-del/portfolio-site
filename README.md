@@ -11,8 +11,8 @@ This project serves as both a **learning vehicle** and a **real-world portfolio*
 
 ##  How to run
 
-npm install
-node server.js
+npm install,
+node server.js,
 open http://localhost:3000
 
 ##  License
